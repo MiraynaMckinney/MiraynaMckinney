@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @MiraynaMckinney
-- 👀 I’m interested in Computer Science and NLP
-- 🌱 I’m currently learning Linguistics and Computer Science
-- 📫 How to reach me: My email is miraynamckinney77@gmail.com
-- I am a driven, creative, and enthusiastic software engineer!
+- 👋 Hi, I’m Mirayna Mckinney
+- 🏢 Full-time Software Engineer at Veeva
+- 🎓 Bachelor in Linguistics and Computer Science (UCLA)
+- 📫 Reach out to me at miraynamckinney77@gmail.com
 
 <!---
 MiraynaMckinney/MiraynaMckinney is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
